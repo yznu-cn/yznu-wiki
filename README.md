@@ -1,7 +1,7 @@
 # yznu-wiki
+[![Build Status](https://travis-ci.org/yznu-cn/yznu-wiki.svg?branch=master)](https://travis-ci.org/yznu-cn/yznu-wiki)
 
 这个项目主要用于知识，包括但不仅限于学习教程、刷题算法代码、 解题思路、课程设计代码、编程书籍......
-[![Build Status](https://travis-ci.org/yznu-cn/yznu-wiki.svg?branch=master)](https://travis-ci.org/yznu-cn/yznu-wiki)
 
 #### 参与方式
 
